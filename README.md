@@ -1,6 +1,6 @@
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=cmhhelgeson&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&hide_title=true" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cmhhelgeson&langs_count=3&hide_title=true&hide_border=true" />
-</a>
+### Personal Github Stats
+[![Anurag's GitHub stats-Dark](https://github-readme-stats-navy-one-86.vercel.app/api?username=cmhhelgeson\&show_icons=true\&theme=dark#gh-dark-mode-only)](https://github.com/chelgeson1click/github-readme-stats#responsive-card-theme#gh-dark-mode-only)
+
+
+### Work Github Stats
+[![Anurag's GitHub stats-Dark](https://github-readme-stats-navy-one-86.vercel.app/api?username=chelgeson1click\&show_icons=true\&theme=dark#gh-dark-mode-only)](https://github.com/chelgeson1click/github-readme-stats#responsive-card-theme#gh-dark-mode-only)
