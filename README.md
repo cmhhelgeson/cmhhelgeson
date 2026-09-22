@@ -1,2 +1,9 @@
 ### Personal Github Stats
-[![Anurag's GitHub stats-Dark](https://github-readme-stats-navy-one-86.vercel.app/api?username=cmhhelgeson&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/cmhhelgeson/github-readme-stats)
+
+<a href="https://github.com/cmhhelgeson">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/stats-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/stats-light.svg">
+    <img alt="Christian Helgeson's GitHub stats" src="./assets/stats-light.svg" width="450">
+  </picture>
+</a>
