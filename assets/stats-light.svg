@@ -36,7 +36,7 @@
   <g transform="translate(365, 110)">
     <circle r="40" fill="none" stroke="#dbe0e6" stroke-width="6"/>
     <circle r="40" fill="none" stroke="#0969da" stroke-width="6" stroke-linecap="round"
-      transform="rotate(-90)" stroke-dasharray="156.98 251.33"/>
-    <text y="8" class="rank">B+</text>
+      transform="rotate(-90)" stroke-dasharray="157.09 251.33"/>
+    <text y="8" class="rank">A-</text>
   </g>
 </svg>
